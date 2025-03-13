@@ -1,0 +1,520 @@
+2025-03-13 14:14:36,952 - INFO - Logger 'database' started.
+2025-03-13 14:14:36,965 - INFO - Created initial Muted Expression table.
+2025-03-13 14:16:27,111 - INFO - Logger 'database' started.
+2025-03-13 14:16:27,112 - INFO - Created initial Muted Expression table.
+2025-03-13 14:16:32,348 - INFO - Inserted None in Muted Expressions table
+2025-03-13 14:17:22,410 - INFO - Logger 'database' started.
+2025-03-13 14:17:22,411 - INFO - Created initial Muted Expression table.
+2025-03-13 14:17:25,077 - INFO - Inserted teste in Muted Expressions table
+2025-03-13 14:17:46,222 - ERROR - Error inserting expression lavin in Muted Expressions table ->
+Error binding parameter 0 - probably unsupported type.
+2025-03-13 14:18:00,142 - INFO - Inserted teste in Muted Expressions table
+2025-03-13 14:18:08,208 - ERROR - Error inserting expression teste in Muted Expressions table ->
+Error binding parameter 0 - probably unsupported type.
+2025-03-13 14:18:18,559 - ERROR - Error inserting expression teste in Muted Expressions table ->
+Error binding parameter 0 - probably unsupported type.
+2025-03-13 14:18:43,432 - ERROR - Error inserting expression alow in Muted Expressions table ->
+Error binding parameter 0 - probably unsupported type.
+2025-03-13 14:18:47,428 - INFO - Logger 'database' started.
+2025-03-13 14:18:47,428 - INFO - Created initial Muted Expression table.
+2025-03-13 14:18:54,653 - ERROR - Error inserting expression alow in Muted Expressions table ->
+Error binding parameter 0 - probably unsupported type.
+2025-03-13 14:20:04,891 - INFO - Logger 'database' started.
+2025-03-13 14:20:04,892 - INFO - Created initial Muted Expression table.
+2025-03-13 14:20:14,956 - ERROR - Error inserting expression oi in Muted Expressions table ->
+Error binding parameter 0 - probably unsupported type.
+2025-03-13 14:20:56,865 - INFO - Logger 'database' started.
+2025-03-13 14:20:56,866 - INFO - Created initial Muted Expression table.
+2025-03-13 14:21:01,031 - ERROR - Error inserting expression oi in Muted Expressions table ->
+Error binding parameter 0 - probably unsupported type.
+{'user_name': 'rafae9218', 'user_room_index': 10, 'user_id': 80599039, 'user_motto': 's'}, a
+2025-03-13 14:22:05,640 - INFO - Logger 'database' started.
+2025-03-13 14:22:05,641 - INFO - Created initial Muted Expression table.
+2025-03-13 14:22:08,993 - INFO - Inserted oi in Muted Expressions table
+2025-03-13 14:26:12,025 - INFO - Logger 'database' started.
+2025-03-13 14:26:12,026 - INFO - Created initial Muted Expression table.
+2025-03-13 14:31:19,764 - INFO - Logger 'database' started.
+2025-03-13 14:31:19,765 - INFO - Created initial Muted Expression table.
+2025-03-13 14:31:46,157 - INFO - Logger 'database' started.
+2025-03-13 14:31:46,157 - INFO - Created initial Muted Expression table.
+2025-03-13 14:31:59,041 - ERROR - Error getting all muted expressions ->
+no such column: muted_expressions
+2025-03-13 14:32:19,251 - INFO - Logger 'database' started.
+2025-03-13 14:32:19,252 - INFO - Created initial Muted Expression table.
+2025-03-13 14:32:26,579 - INFO - Got all muted expressions
+2025-03-13 14:32:37,241 - INFO - Logger 'database' started.
+2025-03-13 14:32:37,242 - INFO - Created initial Muted Expression table.
+2025-03-13 14:34:50,779 - INFO - Logger 'database' started.
+2025-03-13 14:34:50,780 - INFO - Created initial Muted Expression table.
+2025-03-13 14:35:22,235 - INFO - Got all muted expressions
+2025-03-13 14:35:42,847 - INFO - Logger 'database' started.
+2025-03-13 14:35:42,849 - INFO - Created initial Muted Expression table.
+2025-03-13 14:40:15,755 - INFO - Logger 'database' started.
+2025-03-13 14:40:15,756 - INFO - Created initial Muted Expression table.
+2025-03-13 14:40:15,759 - INFO - Created initial Expression Record table.
+2025-03-13 14:40:31,159 - INFO - Inserted oi in Muted Expressions table
+2025-03-13 14:40:31,159 - INFO - Got all muted expressions
+2025-03-13 14:40:45,486 - INFO - Inserted oi in Muted Expressions table
+2025-03-13 14:40:45,486 - INFO - Got all muted expressions
+2025-03-13 14:42:12,675 - INFO - Logger 'database' started.
+2025-03-13 14:42:12,677 - INFO - Created initial Muted Expression table.
+2025-03-13 14:42:12,678 - INFO - Created initial Expression Record table.
+2025-03-13 14:42:39,037 - INFO - Logger 'database' started.
+2025-03-13 14:42:39,038 - INFO - Created initial Muted Expression table.
+2025-03-13 14:42:39,038 - INFO - Created initial Expression Record table.
+2025-03-13 14:42:45,892 - INFO - Removed a in Muted Expressions table
+2025-03-13 14:42:45,895 - INFO - Inserted a in Expression Record table
+2025-03-13 14:42:45,895 - INFO - Got all muted expressions
+2025-03-13 14:43:02,309 - INFO - Got all muted expressions
+2025-03-13 14:43:32,591 - INFO - Removed oi in Muted Expressions table
+2025-03-13 14:43:32,593 - INFO - Inserted oi in Expression Record table
+2025-03-13 14:43:32,594 - INFO - Got all muted expressions
+2025-03-13 14:44:40,835 - INFO - Got all muted expressions
+2025-03-13 14:44:49,253 - INFO - Got all muted expressions
+2025-03-13 14:47:08,078 - INFO - Got all muted expressions
+2025-03-13 14:47:33,571 - INFO - Got all muted expressions
+2025-03-13 14:47:37,222 - INFO - Inserted core in Muted Expressions table
+2025-03-13 14:47:37,222 - INFO - Got all muted expressions
+2025-03-13 14:47:40,802 - INFO - Got all muted expressions
+2025-03-13 14:48:35,750 - INFO - Got all muted expressions
+2025-03-13 14:48:39,490 - INFO - Inserted lavin in Muted Expressions table
+2025-03-13 14:48:39,490 - INFO - Got all muted expressions
+2025-03-13 14:48:42,596 - INFO - Got all muted expressions
+2025-03-13 14:48:55,257 - INFO - Removed lavin in Muted Expressions table
+2025-03-13 14:48:55,260 - INFO - Inserted lavin in Expression Record table
+2025-03-13 14:48:55,260 - INFO - Got all muted expressions
+2025-03-13 14:48:57,857 - INFO - Got all muted expressions
+2025-03-13 14:53:36,537 - INFO - Got all muted expressions
+2025-03-13 14:54:11,812 - INFO - Got all muted expressions
+2025-03-13 14:54:17,208 - INFO - Got all muted expressions
+2025-03-13 14:54:42,714 - INFO - Got all muted expressions
+2025-03-13 14:55:09,874 - INFO - Got all muted expressions
+2025-03-13 14:55:36,266 - INFO - Got all muted expressions
+2025-03-13 15:12:09,856 - INFO - Logger 'database' started.
+2025-03-13 15:12:09,858 - INFO - Created initial Muted Expression table.
+2025-03-13 15:12:09,858 - INFO - Created initial Expression Record table.
+2025-03-13 15:12:36,741 - INFO - Got all muted expressions
+2025-03-13 15:13:41,739 - INFO - Got all muted expressions
+2025-03-13 15:13:44,183 - INFO - Got all muted expressions
+2025-03-13 15:13:46,575 - INFO - Got all muted expressions
+2025-03-13 15:13:53,642 - INFO - Logger 'database' started.
+2025-03-13 15:13:53,643 - INFO - Created initial Muted Expression table.
+2025-03-13 15:13:53,644 - INFO - Created initial Expression Record table.
+2025-03-13 15:14:01,378 - INFO - Got all muted expressions
+2025-03-13 15:14:16,678 - INFO - Logger 'database' started.
+2025-03-13 15:14:16,679 - INFO - Created initial Muted Expression table.
+2025-03-13 15:14:16,679 - INFO - Created initial Expression Record table.
+2025-03-13 15:14:24,533 - INFO - Got all muted expressions
+2025-03-13 15:14:29,870 - INFO - Got all muted expressions
+2025-03-13 15:15:17,059 - INFO - Logger 'database' started.
+2025-03-13 15:15:17,060 - INFO - Created initial Muted Expression table.
+2025-03-13 15:15:17,060 - INFO - Created initial Expression Record table.
+2025-03-13 15:15:21,446 - INFO - Got all muted expressions
+2025-03-13 15:15:44,663 - INFO - Logger 'database' started.
+2025-03-13 15:15:44,663 - INFO - Created initial Muted Expression table.
+2025-03-13 15:15:44,664 - INFO - Created initial Expression Record table.
+2025-03-13 15:15:46,547 - INFO - Got all muted expressions
+2025-03-13 15:15:59,552 - INFO - Logger 'database' started.
+2025-03-13 15:15:59,553 - INFO - Created initial Muted Expression table.
+2025-03-13 15:15:59,553 - INFO - Created initial Expression Record table.
+2025-03-13 15:16:07,451 - INFO - Got all muted expressions
+2025-03-13 15:16:29,466 - INFO - Got all muted expressions
+2025-03-13 15:16:31,514 - INFO - Got all muted expressions
+2025-03-13 15:17:16,457 - INFO - Logger 'database' started.
+2025-03-13 15:17:16,458 - INFO - Created initial Muted Expression table.
+2025-03-13 15:17:16,458 - INFO - Created initial Expression Record table.
+2025-03-13 15:17:20,885 - INFO - Got all muted expressions
+2025-03-13 15:18:14,429 - INFO - Logger 'database' started.
+2025-03-13 15:18:14,430 - INFO - Created initial Muted Expression table.
+2025-03-13 15:18:14,431 - INFO - Created initial Expression Record table.
+2025-03-13 15:18:17,858 - INFO - Logger 'database' started.
+2025-03-13 15:18:17,859 - INFO - Created initial Muted Expression table.
+2025-03-13 15:18:17,859 - INFO - Created initial Expression Record table.
+2025-03-13 15:18:26,962 - INFO - Got all muted expressions
+2025-03-13 15:18:58,879 - INFO - Logger 'database' started.
+2025-03-13 15:18:58,880 - INFO - Created initial Muted Expression table.
+2025-03-13 15:18:58,880 - INFO - Created initial Expression Record table.
+2025-03-13 15:19:00,609 - INFO - Got all muted expressions
+2025-03-13 15:19:24,032 - INFO - Logger 'database' started.
+2025-03-13 15:19:24,034 - INFO - Created initial Muted Expression table.
+2025-03-13 15:19:24,034 - INFO - Created initial Expression Record table.
+2025-03-13 15:19:27,055 - INFO - Got all muted expressions
+2025-03-13 15:19:35,524 - INFO - Got all muted expressions
+2025-03-13 15:19:39,924 - INFO - Got all muted expressions
+2025-03-13 15:20:23,890 - INFO - Logger 'database' started.
+2025-03-13 15:20:23,891 - INFO - Created initial Muted Expression table.
+2025-03-13 15:20:23,892 - INFO - Created initial Expression Record table.
+2025-03-13 15:20:26,646 - INFO - Got all muted expressions
+2025-03-13 15:20:56,651 - INFO - Logger 'database' started.
+2025-03-13 15:20:56,652 - INFO - Created initial Muted Expression table.
+2025-03-13 15:20:56,652 - INFO - Created initial Expression Record table.
+2025-03-13 15:20:59,547 - INFO - Got all muted expressions
+2025-03-13 15:21:12,127 - INFO - Logger 'database' started.
+2025-03-13 15:21:12,128 - INFO - Created initial Muted Expression table.
+2025-03-13 15:21:12,128 - INFO - Created initial Expression Record table.
+2025-03-13 15:21:19,556 - INFO - Got all muted expressions
+2025-03-13 15:23:11,856 - INFO - Got all muted expressions
+2025-03-13 15:24:13,604 - INFO - Got all muted expressions
+2025-03-13 15:24:26,695 - INFO - Logger 'database' started.
+2025-03-13 15:24:26,696 - INFO - Created initial Muted Expression table.
+2025-03-13 15:24:26,696 - INFO - Created initial Expression Record table.
+2025-03-13 15:24:46,451 - INFO - Got all muted expressions
+2025-03-13 15:24:59,398 - INFO - Logger 'database' started.
+2025-03-13 15:24:59,398 - INFO - Created initial Muted Expression table.
+2025-03-13 15:24:59,399 - INFO - Created initial Expression Record table.
+2025-03-13 15:25:43,895 - INFO - Got all muted expressions
+2025-03-13 15:31:52,977 - INFO - Logger 'database' started.
+2025-03-13 15:31:52,978 - INFO - Created initial Muted Expression table.
+2025-03-13 15:31:52,979 - INFO - Created initial Expression Record table.
+2025-03-13 15:31:59,522 - INFO - Got all muted expressions
+2025-03-13 15:32:03,345 - INFO - Got all muted expressions
+2025-03-13 15:34:10,293 - INFO - Logger 'database' started.
+2025-03-13 15:34:10,294 - INFO - Created initial Muted Expression table.
+2025-03-13 15:34:10,295 - INFO - Created initial Expression Record table.
+2025-03-13 15:34:21,220 - INFO - Got all muted expressions
+2025-03-13 15:34:25,800 - INFO - Got all muted expressions
+2025-03-13 15:46:59,990 - INFO - Logger 'database' started.
+2025-03-13 15:46:59,991 - INFO - Created initial Muted Expression table.
+2025-03-13 15:46:59,991 - INFO - Created initial Expression Record table.
+2025-03-13 15:47:04,595 - INFO - Got all muted expressions
+2025-03-13 15:48:06,242 - INFO - Logger 'database' started.
+2025-03-13 15:48:06,243 - INFO - Created initial Muted Expression table.
+2025-03-13 15:48:06,244 - INFO - Created initial Expression Record table.
+2025-03-13 15:48:08,972 - INFO - Got all muted expressions
+2025-03-13 15:48:55,631 - INFO - Logger 'database' started.
+2025-03-13 15:48:55,632 - INFO - Created initial Muted Expression table.
+2025-03-13 15:48:55,632 - INFO - Created initial Expression Record table.
+2025-03-13 15:48:58,527 - INFO - Got all muted expressions
+2025-03-13 15:49:15,950 - INFO - Logger 'database' started.
+2025-03-13 15:49:15,951 - INFO - Created initial Muted Expression table.
+2025-03-13 15:49:15,951 - INFO - Created initial Expression Record table.
+2025-03-13 15:49:18,960 - INFO - Got all muted expressions
+2025-03-13 15:49:19,568 - INFO - Got all muted expressions
+2025-03-13 15:49:29,023 - INFO - Logger 'database' started.
+2025-03-13 15:49:29,024 - INFO - Created initial Muted Expression table.
+2025-03-13 15:49:29,024 - INFO - Created initial Expression Record table.
+2025-03-13 15:50:07,759 - INFO - Logger 'database' started.
+2025-03-13 15:50:07,760 - INFO - Created initial Muted Expression table.
+2025-03-13 15:50:07,760 - INFO - Created initial Expression Record table.
+2025-03-13 15:50:26,880 - INFO - Got all muted expressions
+2025-03-13 15:50:30,673 - INFO - Got all muted expressions
+2025-03-13 17:33:32,987 - INFO - Logger 'database' started.
+2025-03-13 17:33:32,995 - INFO - Created initial Muted Expression table.
+2025-03-13 17:33:32,995 - INFO - Created initial Expression Record table.
+2025-03-13 17:41:22,784 - INFO - Logger 'database' started.
+2025-03-13 17:41:22,785 - INFO - Created initial Muted Expression table.
+2025-03-13 17:41:22,785 - INFO - Created initial Expression Record table.
+2025-03-13 17:41:47,849 - INFO - Logger 'database' started.
+2025-03-13 17:41:47,850 - INFO - Created initial Muted Expression table.
+2025-03-13 17:41:47,851 - INFO - Created initial Expression Record table.
+2025-03-13 17:42:51,882 - INFO - Logger 'database' started.
+2025-03-13 17:42:51,883 - INFO - Created initial Muted Expression table.
+2025-03-13 17:42:51,883 - INFO - Created initial Expression Record table.
+2025-03-13 17:43:34,787 - INFO - Logger 'database' started.
+2025-03-13 17:43:34,788 - INFO - Created initial Muted Expression table.
+2025-03-13 17:43:34,788 - INFO - Created initial Expression Record table.
+2025-03-13 17:46:41,999 - INFO - Logger 'database' started.
+2025-03-13 17:46:42,000 - INFO - Created initial Muted Expression table.
+2025-03-13 17:46:42,001 - INFO - Created initial Expression Record table.
+2025-03-13 17:46:50,131 - INFO - Got all muted expressions
+2025-03-13 17:46:54,694 - INFO - Inserted oi in Muted Expressions table
+2025-03-13 17:46:58,087 - INFO - Got all muted expressions
+2025-03-13 17:47:22,695 - INFO - Logger 'database' started.
+2025-03-13 17:47:22,696 - INFO - Created initial Muted Expression table.
+2025-03-13 17:47:22,697 - INFO - Created initial Expression Record table.
+2025-03-13 17:47:26,878 - INFO - Got all muted expressions
+2025-03-13 17:48:16,312 - INFO - Logger 'database' started.
+2025-03-13 17:48:16,313 - INFO - Created initial Muted Expression table.
+2025-03-13 17:48:16,313 - INFO - Created initial Expression Record table.
+2025-03-13 17:48:19,866 - INFO - Got all muted expressions
+2025-03-13 17:48:23,203 - INFO - Logger 'database' started.
+2025-03-13 17:48:23,203 - INFO - Created initial Muted Expression table.
+2025-03-13 17:48:23,204 - INFO - Created initial Expression Record table.
+2025-03-13 17:48:32,655 - INFO - Got all muted expressions
+2025-03-13 17:48:40,627 - INFO - Removed oi in Muted Expressions table
+2025-03-13 17:48:40,629 - INFO - Inserted oi in Expression Record table
+2025-03-13 17:48:42,980 - INFO - Got all muted expressions
+2025-03-13 17:58:43,802 - INFO - Logger 'database' started.
+2025-03-13 17:58:43,803 - INFO - Created initial Muted Expression table.
+2025-03-13 17:58:43,803 - INFO - Created initial Expression Record table.
+2025-03-13 17:58:57,370 - INFO - Logger 'database' started.
+2025-03-13 17:58:57,371 - INFO - Created initial Muted Expression table.
+2025-03-13 17:58:57,371 - INFO - Created initial Expression Record table.
+2025-03-13 17:59:03,710 - INFO - Inserted ala in Muted Expressions table
+2025-03-13 17:59:03,712 - INFO - Created ala table.
+2025-03-13 18:08:34,868 - INFO - Logger 'database' started.
+2025-03-13 18:08:34,869 - INFO - Created initial Muted Expression table.
+2025-03-13 18:08:34,869 - INFO - Created initial Expression Record table.
+2025-03-13 18:09:16,014 - INFO - Logger 'database' started.
+2025-03-13 18:09:16,015 - INFO - Created initial Muted Expression table.
+2025-03-13 18:09:16,015 - INFO - Created initial Expression Record table.
+2025-03-13 18:09:18,932 - INFO - Got all muted expressions
+2025-03-13 18:10:58,884 - INFO - Got all muted expressions
+2025-03-13 18:11:21,531 - INFO - Logger 'database' started.
+2025-03-13 18:11:21,532 - INFO - Created initial Muted Expression table.
+2025-03-13 18:11:21,532 - INFO - Created initial Expression Record table.
+2025-03-13 18:11:24,519 - INFO - Got all muted expressions
+2025-03-13 18:11:35,491 - INFO - Logger 'database' started.
+2025-03-13 18:11:35,492 - INFO - Created initial Muted Expression table.
+2025-03-13 18:11:35,492 - INFO - Created initial Expression Record table.
+2025-03-13 18:11:38,462 - INFO - Got all muted expressions
+2025-03-13 18:12:48,442 - INFO - Logger 'database' started.
+2025-03-13 18:12:48,443 - INFO - Created initial Muted Expression table.
+2025-03-13 18:12:48,443 - INFO - Created initial Expression Record table.
+2025-03-13 18:12:52,512 - INFO - Got all muted expressions
+2025-03-13 18:13:07,857 - INFO - Logger 'database' started.
+2025-03-13 18:13:07,857 - INFO - Created initial Muted Expression table.
+2025-03-13 18:13:07,858 - INFO - Created initial Expression Record table.
+2025-03-13 18:13:10,777 - INFO - Got all muted expressions
+2025-03-13 18:29:28,181 - INFO - Logger 'database' started.
+2025-03-13 18:29:28,182 - INFO - Created initial Muted Expression table.
+2025-03-13 18:29:28,182 - INFO - Created initial Expression Record table.
+2025-03-13 18:31:04,379 - INFO - Logger 'database' started.
+2025-03-13 18:31:04,380 - INFO - Created initial Muted Expression table.
+2025-03-13 18:31:04,380 - INFO - Created initial Expression Record table.
+2025-03-13 18:31:14,960 - INFO - Got all muted expressions
+2025-03-13 18:31:14,964 - INFO - Inserted rafae9218 in ala table
+2025-03-13 18:31:14,964 - INFO - Created ala table.
+2025-03-13 18:35:23,079 - INFO - Logger 'database' started.
+2025-03-13 18:35:23,080 - INFO - Created initial Muted Expression table.
+2025-03-13 18:35:23,080 - INFO - Created initial Expression Record table.
+2025-03-13 18:35:28,929 - ERROR - Error getting all affected by ala ->
+row value misused
+2025-03-13 18:35:53,759 - INFO - Logger 'database' started.
+2025-03-13 18:35:53,761 - INFO - Created initial Muted Expression table.
+2025-03-13 18:35:53,761 - INFO - Created initial Expression Record table.
+2025-03-13 18:36:04,458 - ERROR - Error getting all affected by ala ->
+row value misused
+2025-03-13 18:37:11,467 - INFO - Logger 'database' started.
+2025-03-13 18:37:11,469 - INFO - Created initial Muted Expression table.
+2025-03-13 18:37:11,469 - INFO - Created initial Expression Record table.
+2025-03-13 18:37:14,995 - INFO - Got all affected by ala
+2025-03-13 18:44:06,712 - INFO - Logger 'database' started.
+2025-03-13 18:44:06,713 - INFO - Created initial Muted Expression table.
+2025-03-13 18:44:06,713 - INFO - Created initial Expression Record table.
+2025-03-13 18:44:10,266 - INFO - Got all affected by ala
+2025-03-13 18:44:13,148 - INFO - Got all affected by ala
+2025-03-13 18:44:19,925 - INFO - Logger 'database' started.
+2025-03-13 18:44:19,926 - INFO - Created initial Muted Expression table.
+2025-03-13 18:44:19,927 - INFO - Created initial Expression Record table.
+2025-03-13 18:44:23,241 - INFO - Got all affected by ala
+2025-03-13 18:49:52,530 - INFO - Logger 'database' started.
+2025-03-13 18:49:52,531 - INFO - Created initial Muted Expression table.
+2025-03-13 18:49:52,531 - INFO - Created initial Expression Record table.
+2025-03-13 18:50:21,688 - INFO - Logger 'database' started.
+2025-03-13 18:50:21,689 - INFO - Created initial Muted Expression table.
+2025-03-13 18:50:21,689 - INFO - Created initial Expression Record table.
+2025-03-13 18:50:25,223 - ERROR - Error getting all affected by ala_rafae9218 ->
+no such table: ala_rafae9218
+2025-03-13 18:51:08,053 - INFO - Logger 'database' started.
+2025-03-13 18:51:08,054 - INFO - Created initial Muted Expression table.
+2025-03-13 18:51:08,055 - INFO - Created initial Expression Record table.
+2025-03-13 18:51:23,534 - ERROR - Error getting all affected by ala_rafae9218 ->
+no such table: ala_rafae9218
+2025-03-13 18:53:24,840 - INFO - Logger 'database' started.
+2025-03-13 18:53:24,841 - INFO - Created initial Muted Expression table.
+2025-03-13 18:53:24,842 - INFO - Created initial Expression Record table.
+2025-03-13 18:53:28,281 - ERROR - Error getting all affected by ala_rafae9218 ->
+no such table: ala_rafae9218
+2025-03-13 18:54:02,358 - INFO - Logger 'database' started.
+2025-03-13 18:54:02,359 - INFO - Created initial Muted Expression table.
+2025-03-13 18:54:02,359 - INFO - Created initial Expression Record table.
+2025-03-13 18:54:05,681 - ERROR - Error getting all affected by ala_rafae9218 ->
+no such table: ala_rafae9218
+2025-03-13 18:54:15,864 - INFO - Logger 'database' started.
+2025-03-13 18:54:15,865 - INFO - Created initial Muted Expression table.
+2025-03-13 18:54:15,866 - INFO - Created initial Expression Record table.
+2025-03-13 18:54:19,272 - INFO - Got all affected by ala
+2025-03-13 18:54:53,519 - INFO - Logger 'database' started.
+2025-03-13 18:54:53,520 - INFO - Created initial Muted Expression table.
+2025-03-13 18:54:53,520 - INFO - Created initial Expression Record table.
+2025-03-13 18:54:57,038 - INFO - Got all affected by ala
+2025-03-13 18:55:20,838 - INFO - Logger 'database' started.
+2025-03-13 18:55:20,839 - INFO - Created initial Muted Expression table.
+2025-03-13 18:55:20,839 - INFO - Created initial Expression Record table.
+2025-03-13 18:55:24,802 - INFO - Got all muted expressions
+2025-03-13 18:55:28,775 - INFO - Got all affected by ala
+2025-03-13 18:55:32,978 - INFO - Got all muted expressions
+2025-03-13 18:55:38,028 - INFO - Got all affected by ala
+2025-03-13 18:55:41,773 - INFO - Got all affected by ala
+2025-03-13 18:57:58,093 - INFO - Logger 'database' started.
+2025-03-13 18:57:58,094 - INFO - Created initial Muted Expression table.
+2025-03-13 18:57:58,095 - INFO - Created initial Expression Record table.
+2025-03-13 19:00:17,589 - INFO - Logger 'database' started.
+2025-03-13 19:00:17,590 - INFO - Created initial Muted Expression table.
+2025-03-13 19:00:17,590 - INFO - Created initial Expression Record table.
+2025-03-13 19:01:13,227 - INFO - Logger 'database' started.
+2025-03-13 19:01:13,228 - INFO - Created initial Muted Expression table.
+2025-03-13 19:01:13,228 - INFO - Created initial Expression Record table.
+2025-03-13 19:01:47,471 - INFO - Got all muted expressions
+2025-03-13 19:01:55,145 - INFO - Got all muted expressions
+2025-03-13 19:02:52,704 - INFO - Logger 'database' started.
+2025-03-13 19:02:52,705 - INFO - Created initial Muted Expression table.
+2025-03-13 19:02:52,706 - INFO - Created initial Expression Record table.
+2025-03-13 19:02:57,165 - INFO - Got all muted expressions
+2025-03-13 19:03:21,117 - INFO - Got all affected by ala
+2025-03-13 19:04:46,445 - INFO - Logger 'database' started.
+2025-03-13 19:04:46,446 - INFO - Created initial Muted Expression table.
+2025-03-13 19:04:46,447 - INFO - Created initial Expression Record table.
+2025-03-13 19:04:51,343 - INFO - Got all muted expressions
+2025-03-13 19:04:53,197 - INFO - Got all affected by ala
+2025-03-13 19:04:58,944 - INFO - Got all affected by ala
+2025-03-13 19:05:28,913 - INFO - Logger 'database' started.
+2025-03-13 19:05:28,914 - INFO - Created initial Muted Expression table.
+2025-03-13 19:05:28,915 - INFO - Created initial Expression Record table.
+2025-03-13 19:05:32,212 - INFO - Got all affected by ala
+2025-03-13 19:05:36,425 - INFO - Got all muted expressions
+2025-03-13 19:05:38,061 - INFO - Got all affected by ala
+2025-03-13 19:05:40,595 - INFO - Got all affected by ala
+2025-03-13 19:16:05,867 - INFO - Logger 'database' started.
+2025-03-13 19:16:05,869 - INFO - Created initial Muted Expression table.
+2025-03-13 19:16:05,869 - INFO - Created initial Expression Record table.
+2025-03-13 19:16:21,764 - INFO - Logger 'database' started.
+2025-03-13 19:16:21,765 - INFO - Created initial Muted Expression table.
+2025-03-13 19:16:21,766 - INFO - Created initial Expression Record table.
+2025-03-13 19:16:28,406 - INFO - Got all muted expressions
+2025-03-13 19:16:31,499 - INFO - Got all affected by ala
+2025-03-13 19:18:46,094 - INFO - Got all affected by ala
+2025-03-13 19:18:48,676 - INFO - Got all muted expressions
+2025-03-13 19:18:50,598 - INFO - Got all affected by ala
+2025-03-13 19:29:07,323 - INFO - Logger 'database' started.
+2025-03-13 19:29:07,324 - INFO - Created initial Muted Expression table.
+2025-03-13 19:29:07,324 - INFO - Created initial Expression Record table.
+2025-03-13 19:29:12,532 - INFO - Got all muted expressions
+2025-03-13 19:29:17,054 - INFO - Got all affected by ala
+2025-03-13 19:29:19,061 - INFO - Got all affected by ala
+2025-03-13 19:29:50,820 - INFO - Got all muted expressions
+2025-03-13 19:29:52,482 - INFO - Got all affected by ala
+2025-03-13 19:30:35,245 - INFO - Logger 'database' started.
+2025-03-13 19:30:35,246 - INFO - Created initial Muted Expression table.
+2025-03-13 19:30:35,246 - INFO - Created initial Expression Record table.
+2025-03-13 19:30:38,565 - INFO - Removed ala in Muted Expressions table
+2025-03-13 19:30:38,567 - INFO - Inserted ala in Expression Record table
+2025-03-13 19:34:50,718 - INFO - Logger 'database' started.
+2025-03-13 19:34:50,719 - INFO - Created initial Muted Expression table.
+2025-03-13 19:34:50,720 - INFO - Created initial Expression Record table.
+2025-03-13 19:34:55,328 - INFO - Got all muted expressions
+2025-03-13 19:34:57,548 - ERROR - Error getting all affected by core ->
+no such table: core
+2025-03-13 19:35:05,872 - INFO - Removed core in Muted Expressions table
+2025-03-13 19:35:05,874 - INFO - Inserted core in Expression Record table
+2025-03-13 19:38:32,169 - INFO - Logger 'database' started.
+2025-03-13 19:38:32,170 - INFO - Created initial Muted Expression table.
+2025-03-13 19:38:32,171 - INFO - Created initial Expression Record table.
+2025-03-13 19:39:19,294 - INFO - Logger 'database' started.
+2025-03-13 19:39:19,295 - INFO - Created initial Muted Expression table.
+2025-03-13 19:39:19,295 - INFO - Created initial Expression Record table.
+2025-03-13 19:39:23,688 - INFO - Got all muted expressions
+2025-03-13 19:39:25,685 - ERROR - Error getting all affected by teste ->
+no such table: teste
+2025-03-13 19:42:00,598 - INFO - Logger 'database' started.
+2025-03-13 19:42:00,602 - INFO - Created initial Muted Expression table.
+2025-03-13 19:42:00,605 - INFO - Created initial Expression Record table.
+2025-03-13 19:42:16,435 - INFO - Inserted TesteMute in Muted Expressions table
+2025-03-13 19:42:16,437 - INFO - Created TesteMute table.
+2025-03-13 19:51:06,196 - INFO - Logger 'database' started.
+2025-03-13 19:51:06,197 - INFO - Created initial Muted Expression table.
+2025-03-13 19:51:06,197 - INFO - Created initial Expression Record table.
+2025-03-13 19:51:12,090 - INFO - Got all muted expressions
+2025-03-13 19:51:13,541 - INFO - Got all affected by TesteMute
+2025-03-13 19:51:13,542 - INFO - Got responsable by TesteMute
+2025-03-13 19:51:37,168 - INFO - Logger 'database' started.
+2025-03-13 19:51:37,169 - INFO - Created initial Muted Expression table.
+2025-03-13 19:51:37,170 - INFO - Created initial Expression Record table.
+2025-03-13 19:51:40,415 - INFO - Got all affected by TesteMute
+2025-03-13 19:51:40,415 - INFO - Got responsable by TesteMute
+2025-03-13 19:52:02,255 - INFO - Removed TesteMute in Muted Expressions table
+2025-03-13 19:52:02,257 - INFO - Inserted TesteMute in Expression Record table
+2025-03-13 19:55:18,548 - INFO - Logger 'database' started.
+2025-03-13 19:55:18,550 - INFO - Created initial Muted Expression table.
+2025-03-13 19:55:18,550 - INFO - Created initial Expression Record table.
+2025-03-13 19:55:23,998 - INFO - Inserted Gamer in Muted Expressions table
+2025-03-13 19:55:24,001 - INFO - Created Gamer table.
+2025-03-13 19:55:55,490 - INFO - Got all muted expressions
+2025-03-13 19:55:59,376 - INFO - Got all muted expressions
+2025-03-13 19:56:06,038 - INFO - Got all muted expressions
+2025-03-13 19:56:20,819 - INFO - Got all muted expressions
+2025-03-13 19:56:22,549 - INFO - Got all muted expressions
+2025-03-13 19:56:43,619 - INFO - Logger 'database' started.
+2025-03-13 19:56:43,620 - INFO - Created initial Muted Expression table.
+2025-03-13 19:56:43,620 - INFO - Created initial Expression Record table.
+2025-03-13 19:57:36,390 - INFO - Logger 'database' started.
+2025-03-13 19:57:36,391 - INFO - Created initial Muted Expression table.
+2025-03-13 19:57:36,391 - INFO - Created initial Expression Record table.
+2025-03-13 19:57:39,305 - INFO - Got all muted expressions
+2025-03-13 19:57:48,417 - INFO - Got all muted expressions
+2025-03-13 19:57:53,326 - INFO - Inserted teste in Muted Expressions table
+2025-03-13 19:57:53,328 - INFO - Created teste table.
+2025-03-13 19:57:53,329 - INFO - Got all muted expressions
+2025-03-13 19:57:56,031 - INFO - Got all muted expressions
+2025-03-13 19:57:56,034 - INFO - Inserted hyrs12alice in teste table
+2025-03-13 19:57:56,035 - INFO - Created teste table.
+2025-03-13 19:58:04,667 - INFO - Got all muted expressions
+2025-03-13 19:59:06,999 - INFO - Inserted alow in Muted Expressions table
+2025-03-13 19:59:07,002 - INFO - Created alow table.
+2025-03-13 19:59:12,600 - INFO - Got all muted expressions
+2025-03-13 19:59:12,605 - INFO - Inserted hyrs12alice in alow table
+2025-03-13 19:59:12,606 - INFO - Created alow table.
+2025-03-13 19:59:24,537 - INFO - Got all muted expressions
+2025-03-13 19:59:24,540 - INFO - Inserted hyrs12alice in alow table
+2025-03-13 19:59:24,540 - INFO - Created alow table.
+2025-03-13 20:04:24,914 - INFO - Logger 'database' started.
+2025-03-13 20:04:24,915 - INFO - Created initial Muted Expression table.
+2025-03-13 20:04:24,916 - INFO - Created initial Expression Record table.
+2025-03-13 20:04:29,352 - INFO - Got all muted expressions
+2025-03-13 20:04:29,357 - INFO - Inserted hyrs12alice in alow table
+2025-03-13 20:04:29,357 - INFO - Created alow table.
+2025-03-13 20:05:41,337 - INFO - Logger 'database' started.
+2025-03-13 20:05:41,339 - INFO - Created initial Muted Expression table.
+2025-03-13 20:05:41,339 - INFO - Created initial Expression Record table.
+2025-03-13 20:05:46,285 - INFO - Got all muted expressions
+2025-03-13 20:05:46,289 - INFO - Inserted hyrs12alice in alow table
+2025-03-13 20:05:46,289 - INFO - Created alow table.
+2025-03-13 20:06:03,548 - INFO - Inserted Gamer Apeludo in Muted Expressions table
+2025-03-13 20:06:03,549 - ERROR - Error creating Gamer Apeludo table ->
+near "Apeludo": syntax error
+2025-03-13 20:06:12,740 - INFO - Got all muted expressions
+2025-03-13 20:06:12,744 - INFO - Inserted hyrs12alice in gamer table
+2025-03-13 20:06:12,744 - INFO - Created gamer table.
+2025-03-13 20:06:17,614 - INFO - Got all muted expressions
+2025-03-13 20:06:17,617 - INFO - Inserted hyrs12alice in gamer table
+2025-03-13 20:06:17,618 - INFO - Created gamer table.
+2025-03-13 20:06:29,221 - INFO - Got all muted expressions
+2025-03-13 20:06:31,435 - INFO - Got all affected by Gamer
+2025-03-13 20:06:31,436 - INFO - Got responsable by Gamer
+2025-03-13 20:06:33,386 - INFO - Removed Gamer in Muted Expressions table
+2025-03-13 20:06:33,390 - INFO - Inserted Gamer in Expression Record table
+2025-03-13 20:06:40,491 - INFO - Got all muted expressions
+2025-03-13 20:06:45,388 - INFO - Got all muted expressions
+2025-03-13 20:06:45,389 - ERROR - Error inserting hyrs12alice in gamer\ apeludo table ->
+unrecognized token: "\"
+2025-03-13 20:06:55,617 - INFO - Got all muted expressions
+2025-03-13 20:07:06,479 - INFO - Got all muted expressions
+2025-03-13 20:07:06,480 - ERROR - Error inserting hyrs12alice in gamer\ apeludo table ->
+unrecognized token: "\"
+2025-03-13 20:08:36,532 - INFO - Got all muted expressions
+2025-03-13 20:08:39,318 - INFO - Got all affected by teste
+2025-03-13 20:08:39,319 - INFO - Got responsable by teste
+2025-03-13 20:08:40,850 - INFO - Removed teste in Muted Expressions table
+2025-03-13 20:08:40,853 - INFO - Inserted teste in Expression Record table
+2025-03-13 20:08:46,485 - INFO - Got all muted expressions
+2025-03-13 20:08:48,179 - INFO - Got all affected by alow
+2025-03-13 20:08:48,179 - INFO - Got responsable by alow
+2025-03-13 20:08:50,254 - INFO - Removed alow in Muted Expressions table
+2025-03-13 20:08:50,255 - INFO - Inserted alow in Expression Record table
+2025-03-13 20:09:24,403 - INFO - Got all muted expressions
+2025-03-13 20:09:26,608 - INFO - Got all muted expressions
+2025-03-13 20:09:29,452 - INFO - Got all affected by Gamer Apeludo
+2025-03-13 20:09:29,452 - INFO - Got responsable by Gamer Apeludo
+2025-03-13 20:09:42,163 - INFO - Got all affected by Gamer Apeludo
+2025-03-13 20:09:42,889 - INFO - Got all affected by Gamer Apeludo
+2025-03-13 20:09:42,889 - INFO - Got responsable by Gamer Apeludo
+2025-03-13 20:09:45,975 - INFO - Got all muted expressions
+2025-03-13 20:09:46,689 - INFO - Got all muted expressions
+2025-03-13 20:09:47,402 - INFO - Got all muted expressions
+2025-03-13 20:09:48,116 - INFO - Got all affected by Gamer Apeludo
+2025-03-13 20:09:48,116 - INFO - Got responsable by Gamer Apeludo
+2025-03-13 20:09:48,827 - INFO - Got all affected by Gamer Apeludo
+2025-03-13 20:09:48,827 - INFO - Got responsable by Gamer Apeludo
+2025-03-13 20:09:55,831 - INFO - Got all affected by Gamer Apeludo
+2025-03-13 20:10:07,498 - INFO - Got all affected by Gamer Apeludo

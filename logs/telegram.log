@@ -1,0 +1,324 @@
+2025-03-13 17:33:33,463 - INFO - Logger 'telegram' started.
+2025-03-13 17:33:35,022 - INFO - Application started
+2025-03-13 17:41:23,263 - INFO - Logger 'telegram' started.
+2025-03-13 17:41:48,312 - INFO - Logger 'telegram' started.
+2025-03-13 17:41:49,954 - INFO - Application started
+2025-03-13 17:41:52,528 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+TypeError: 'module' object is not callable
+2025-03-13 17:42:24,610 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+TypeError: 'module' object is not callable
+2025-03-13 17:42:52,307 - INFO - Logger 'telegram' started.
+2025-03-13 17:42:53,993 - INFO - Application started
+2025-03-13 17:43:00,948 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+TypeError: 'module' object is not callable
+2025-03-13 17:43:35,248 - INFO - Logger 'telegram' started.
+2025-03-13 17:43:36,687 - INFO - Application started
+2025-03-13 17:43:39,685 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+TypeError: object NoneType can't be used in 'await' expression
+2025-03-13 17:46:42,457 - INFO - Logger 'telegram' started.
+2025-03-13 17:46:44,036 - INFO - Application started
+2025-03-13 17:46:54,694 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+TypeError: object NoneType can't be used in 'await' expression
+2025-03-13 17:47:23,135 - INFO - Logger 'telegram' started.
+2025-03-13 17:47:24,614 - INFO - Application started
+2025-03-13 17:48:16,743 - INFO - Logger 'telegram' started.
+2025-03-13 17:48:18,244 - INFO - Application started
+2025-03-13 17:48:23,653 - INFO - Logger 'telegram' started.
+2025-03-13 17:48:25,152 - INFO - Application started
+2025-03-13 17:48:40,630 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+TypeError: object NoneType can't be used in 'await' expression
+2025-03-13 17:58:44,262 - INFO - Logger 'telegram' started.
+2025-03-13 17:58:57,837 - INFO - Logger 'telegram' started.
+2025-03-13 17:58:59,386 - INFO - Application started
+2025-03-13 17:59:03,713 - INFO - Command /mute used by torvi_hb. Added ala to database
+2025-03-13 17:59:03,713 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+TypeError: object NoneType can't be used in 'await' expression
+2025-03-13 18:08:35,293 - INFO - Logger 'telegram' started.
+2025-03-13 18:08:36,897 - INFO - Application started
+2025-03-13 18:08:44,743 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+TypeError: menu_command_handler() takes 1 positional argument but 2 were given
+2025-03-13 18:09:16,465 - INFO - Logger 'telegram' started.
+2025-03-13 18:09:17,948 - INFO - Application started
+2025-03-13 18:09:18,932 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+  File "C:\Users\rafae\OneDrive\Desktop\dev\mute\bot\handlers\menu_command_handler.py", line 11, in menu_command_handler
+    keyboard.append[[InlineKeyboardButton(f"{muted_expressions[i]}", callback_data=f"wrd_{muted_expressions[i]}")]]
+TypeError: 'builtin_function_or_method' object is not subscriptable
+2025-03-13 18:10:58,884 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+  File "C:\Users\rafae\OneDrive\Desktop\dev\mute\bot\handlers\menu_command_handler.py", line 11, in menu_command_handler
+    keyboard.append([InlineKeyboardButton(f"{muted_expressions[i]}", callback_data=f"wrd_{muted_expressions[i]}")])
+TypeError: 'builtin_function_or_method' object is not subscriptable
+2025-03-13 18:11:21,976 - INFO - Logger 'telegram' started.
+2025-03-13 18:11:23,533 - INFO - Application started
+2025-03-13 18:11:24,519 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+  File "C:\Users\rafae\OneDrive\Desktop\dev\mute\bot\handlers\menu_command_handler.py", line 16, in menu_command_handler
+    await update.message.reply_text(reply_markup=reply_markup)
+TypeError: Message.reply_text() missing 1 required positional argument: 'text'
+2025-03-13 18:11:35,925 - INFO - Logger 'telegram' started.
+2025-03-13 18:11:37,432 - INFO - Application started
+2025-03-13 18:12:48,879 - INFO - Logger 'telegram' started.
+2025-03-13 18:12:51,490 - INFO - Application started
+2025-03-13 18:13:08,300 - INFO - Logger 'telegram' started.
+2025-03-13 18:13:09,783 - INFO - Application started
+2025-03-13 18:29:28,677 - INFO - Logger 'telegram' started.
+2025-03-13 18:31:04,845 - INFO - Logger 'telegram' started.
+2025-03-13 18:31:06,425 - INFO - Application started
+2025-03-13 18:35:23,512 - INFO - Logger 'telegram' started.
+2025-03-13 18:35:25,180 - INFO - Application started
+2025-03-13 18:35:54,253 - INFO - Logger 'telegram' started.
+2025-03-13 18:35:55,871 - INFO - Application started
+2025-03-13 18:37:11,968 - INFO - Logger 'telegram' started.
+2025-03-13 18:37:13,569 - INFO - Application started
+2025-03-13 18:44:07,165 - INFO - Logger 'telegram' started.
+2025-03-13 18:44:08,888 - INFO - Application started
+2025-03-13 18:44:20,368 - INFO - Logger 'telegram' started.
+2025-03-13 18:44:21,892 - INFO - Application started
+2025-03-13 18:49:52,968 - INFO - Logger 'telegram' started.
+2025-03-13 18:49:54,579 - INFO - Application started
+2025-03-13 18:49:55,945 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+  File "C:\Users\rafae\OneDrive\Desktop\dev\mute\bot\handlers\query_handler.py", line 24, in affected_user_info
+    affected = query.data.split[2]
+TypeError: 'builtin_function_or_method' object is not subscriptable
+2025-03-13 18:50:22,113 - INFO - Logger 'telegram' started.
+2025-03-13 18:50:23,776 - INFO - Application started
+2025-03-13 18:50:25,224 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+  File "C:\Users\rafae\OneDrive\Desktop\dev\mute\bot\handlers\query_handler.py", line 27, in affected_user_info
+    affected_user_username = affected_user[0]
+IndexError: list index out of range
+2025-03-13 18:51:08,530 - INFO - Logger 'telegram' started.
+2025-03-13 18:51:10,312 - INFO - Application started
+2025-03-13 18:51:23,535 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+  File "C:\Users\rafae\OneDrive\Desktop\dev\mute\bot\handlers\query_handler.py", line 28, in affected_user_info
+    affected_user_username = affected_user[0]
+IndexError: list index out of range
+2025-03-13 18:53:25,272 - INFO - Logger 'telegram' started.
+2025-03-13 18:53:26,880 - INFO - Application started
+2025-03-13 18:53:28,282 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+  File "C:\Users\rafae\OneDrive\Desktop\dev\mute\bot\handlers\query_handler.py", line 28, in affected_user_info
+    affected_user_username = affected_user[0]
+IndexError: list index out of range
+2025-03-13 18:54:02,796 - INFO - Logger 'telegram' started.
+2025-03-13 18:54:04,299 - INFO - Application started
+2025-03-13 18:54:05,682 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+  File "C:\Users\rafae\OneDrive\Desktop\dev\mute\bot\handlers\query_handler.py", line 30, in affected_user_info
+    affected_user_username = affected_user[0]
+IndexError: list index out of range
+2025-03-13 18:54:16,309 - INFO - Logger 'telegram' started.
+2025-03-13 18:54:17,852 - INFO - Application started
+2025-03-13 18:54:19,272 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+  File "C:\Users\rafae\OneDrive\Desktop\dev\mute\bot\handlers\query_handler.py", line 31, in affected_user_info
+    affected_user_message = affected_user[1]
+IndexError: list index out of range
+2025-03-13 18:54:53,972 - INFO - Logger 'telegram' started.
+2025-03-13 18:54:55,601 - INFO - Application started
+2025-03-13 18:55:21,287 - INFO - Logger 'telegram' started.
+2025-03-13 18:55:22,747 - INFO - Application started
+2025-03-13 18:57:58,512 - INFO - Logger 'telegram' started.
+2025-03-13 18:58:00,122 - INFO - Application started
+2025-03-13 19:00:18,041 - INFO - Logger 'telegram' started.
+2025-03-13 19:00:19,587 - INFO - Application started
+2025-03-13 19:01:13,679 - INFO - Logger 'telegram' started.
+2025-03-13 19:01:15,143 - INFO - Application started
+2025-03-13 19:01:47,472 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+  File "C:\Users\rafae\OneDrive\Desktop\dev\mute\bot\handlers\query_handler.py", line 47, in muted_expressions_list
+    await update.message.reply_text("<b>Selecione a opção desejada abaixado.</b>", reply_markup=reply_markup, parse_mode="HTML")
+AttributeError: 'NoneType' object has no attribute 'reply_text'
+2025-03-13 19:01:55,145 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+  File "C:\Users\rafae\OneDrive\Desktop\dev\mute\bot\handlers\query_handler.py", line 47, in muted_expressions_list
+    await update.message.reply_text("<b>Selecione a opção desejada abaixado.</b>", reply_markup=reply_markup, parse_mode="HTML")
+AttributeError: 'NoneType' object has no attribute 'reply_text'
+2025-03-13 19:02:53,143 - INFO - Logger 'telegram' started.
+2025-03-13 19:02:54,718 - INFO - Application started
+2025-03-13 19:04:46,904 - INFO - Logger 'telegram' started.
+2025-03-13 19:04:48,471 - INFO - Application started
+2025-03-13 19:05:29,360 - INFO - Logger 'telegram' started.
+2025-03-13 19:05:30,871 - INFO - Application started
+2025-03-13 19:16:06,327 - INFO - Logger 'telegram' started.
+2025-03-13 19:16:22,204 - INFO - Logger 'telegram' started.
+2025-03-13 19:16:23,767 - INFO - Application started
+2025-03-13 19:16:35,203 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+  File "C:\Users\rafae\OneDrive\Desktop\dev\mute\bot\handlers\query_handler.py", line 27, in affected_user_info
+    affected = query.data.split("_")[2]
+IndexError: list index out of range
+2025-03-13 19:18:52,297 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+  File "C:\Users\rafae\OneDrive\Desktop\dev\mute\bot\handlers\query_handler.py", line 27, in affected_user_info
+    affected = query.data.split("_")[2]
+IndexError: list index out of range
+2025-03-13 19:29:07,769 - INFO - Logger 'telegram' started.
+2025-03-13 19:29:09,324 - INFO - Application started
+2025-03-13 19:29:55,139 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+  File "C:\Users\rafae\OneDrive\Desktop\dev\mute\bot\handlers\query_handler.py", line 27, in affected_user_info
+    affected = query.data.split("_")[2]
+IndexError: list index out of range
+2025-03-13 19:30:35,705 - INFO - Logger 'telegram' started.
+2025-03-13 19:30:37,245 - INFO - Application started
+2025-03-13 19:34:51,174 - INFO - Logger 'telegram' started.
+2025-03-13 19:34:52,715 - INFO - Application started
+2025-03-13 19:35:05,875 - INFO - Unmuted core. By: torvi_hb
+2025-03-13 19:38:32,620 - INFO - Logger 'telegram' started.
+2025-03-13 19:39:19,725 - INFO - Logger 'telegram' started.
+2025-03-13 19:39:21,252 - INFO - Application started
+2025-03-13 19:42:01,023 - INFO - Logger 'telegram' started.
+2025-03-13 19:42:02,525 - INFO - Application started
+2025-03-13 19:42:16,437 - INFO - Command /mute used by torvi_hb. Added TesteMute to database
+2025-03-13 19:51:06,677 - INFO - Logger 'telegram' started.
+2025-03-13 19:51:08,216 - INFO - Application started
+2025-03-13 19:51:13,780 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_application.py", line 1343, in process_update
+    await coroutine
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_handlers\basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+  File "C:\Users\rafae\OneDrive\Desktop\dev\mute\bot\handlers\query_handler.py", line 28, in muted_expression_query_handler
+    await query.edit_message_text(f"<b>Lista de pessoas banidas por usarem '{expression}':</b>\n<i>(Clique para ver as informações do usuário)\n\n<b>-- Adicionais --M/b>\n👤 Responsável: {responsable_username}\n⏰Timestamp: {timestamp}</i>", parse_mode="HTML", reply_markup=reply_markup)
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\_callbackquery.py", line 265, in edit_message_text
+    return await self._get_message().edit_text(
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\_message.py", line 3815, in edit_text
+    return await self.get_bot().edit_message_text(
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_extbot.py", line 1711, in edit_message_text
+    return await super().edit_message_text(
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\_bot.py", line 4285, in edit_message_text
+    return await self._send_message(
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_extbot.py", line 618, in _send_message
+    result = await super()._send_message(
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\_bot.py", line 803, in _send_message
+    result = await self._post(
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\_bot.py", line 691, in _post
+    return await self._do_post(
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\ext\_extbot.py", line 362, in _do_post
+    return await super()._do_post(
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\_bot.py", line 720, in _do_post
+    result = await request.post(
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\request\_baserequest.py", line 202, in post
+    result = await self._request_wrapper(
+  File "c:\Users\rafae\OneDrive\Desktop\dev\mute\venv\lib\site-packages\telegram\request\_baserequest.py", line 383, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Can't parse entities: unmatched end tag at byte offset 192, expected "</b>", found "</i>"
+2025-03-13 19:51:37,635 - INFO - Logger 'telegram' started.
+2025-03-13 19:51:39,098 - INFO - Application started
+2025-03-13 19:52:02,258 - INFO - Unmuted TesteMute. By: torvi_hb
+2025-03-13 19:55:19,039 - INFO - Logger 'telegram' started.
+2025-03-13 19:55:20,674 - INFO - Application started
+2025-03-13 19:55:24,001 - INFO - Command /mute used by torvi_hb. Added Gamer to database
+2025-03-13 19:56:44,083 - INFO - Logger 'telegram' started.
+2025-03-13 19:56:45,651 - INFO - Application started
+2025-03-13 19:57:36,869 - INFO - Logger 'telegram' started.
+2025-03-13 19:57:38,324 - INFO - Application started
+2025-03-13 19:59:07,002 - INFO - Command /mute used by torvi_hb. Added alow to database
+2025-03-13 20:04:25,497 - INFO - Logger 'telegram' started.
+2025-03-13 20:04:27,041 - INFO - Application started
+2025-03-13 20:05:41,789 - INFO - Logger 'telegram' started.
+2025-03-13 20:05:43,298 - INFO - Application started
+2025-03-13 20:06:03,549 - INFO - Command /mute used by torvi_hb. Added Gamer Apeludo to database
+2025-03-13 20:06:33,390 - INFO - Unmuted Gamer. By: torvi_hb
+2025-03-13 20:08:40,853 - INFO - Unmuted teste. By: torvi_hb
+2025-03-13 20:08:50,255 - INFO - Unmuted alow. By: torvi_hb

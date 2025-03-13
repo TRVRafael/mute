@@ -1,0 +1,1 @@
+from .habbo import run_extension

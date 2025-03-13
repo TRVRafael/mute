@@ -1,0 +1,1 @@
+from .config import habbo_logger

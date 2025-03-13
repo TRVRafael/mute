@@ -1,0 +1,6 @@
+def handle_command(message_text : str):
+    ...
+    
+
+def handle_muted_expressions(user_room_id: id, message_text: str, muted_expression: str | list):
+    ...
